@@ -1,6 +1,6 @@
 # TaskOfOpencv
 
-主要考察大家对OpenCV基本操作的理解
+主要 考察大家对OpenCV基本操作的理解
 
 ## 回形针计数
 
